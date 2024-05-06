@@ -28,7 +28,7 @@ Sovol's SV06 PEI has a painted grid that tends to stick to high temperature prin
 
 ![Heated Bed](/images/heated_bed.webp){ align=left width="100" }
 
-400x400 24V heated bed made out of AL5052 aluminium alloy. 400mm long 15AWG silicone wire for power.
+235x235x3mm 24V heated bed made out of AL5052 aluminium alloy. 400mm long 15AWG silicone wire for power.
 
 !!! tip "Buy from"
     [Sovol Store](https://sovol3d.com/collections/sv06-replacement/products/hotbed-kits-for-sv06-3d-printer?sca_ref=3309524.Vd4MGn0pGL&sca_source=base){ .md-button }
